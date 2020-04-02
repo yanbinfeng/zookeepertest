@@ -72,6 +72,13 @@
   <component name="HierarchyBrowserManager">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\lenovo\IdeaProjects\zookeepertest\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -247,12 +254,24 @@
       <workItem from="1585651362666" duration="7419000" />
       <workItem from="1585713250774" duration="11670000" />
       <workItem from="1585731156039" duration="2485000" />
-      <workItem from="1585798212184" duration="7768000" />
+      <workItem from="1585798212184" duration="8056000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次idea测试提交">
+      <created>1585817696475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585817696475</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次idea测试提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次idea测试提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="21" key="#Project_Structure" timestamp="1585713547580">
@@ -271,14 +290,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585653195559" />
+    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1585817690846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585817690846" />
     <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1585817326574">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585817326574" />
-    <state x="539" y="253" width="288" height="290" key="Github.ShareDialog" timestamp="1585817092497">
+    <state x="539" y="253" width="288" height="290" key="Github.ShareDialog" timestamp="1585817853133">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="539" y="253" width="288" height="290" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1585817092497" />
+    <state x="539" y="253" width="288" height="290" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1585817853133" />
     <state width="1107" height="323" key="GridCell.Tab.0.bottom" timestamp="1585806337229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
